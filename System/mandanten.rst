@@ -20,6 +20,12 @@ Ident.
 
 .. Attention:: Die Ident. darf keine Sonder- oder Leerzeichen enthalten, wir raten zu einer 4 stelligen
     Ident. die aus reinen Großbuchstaben besteht z.B. :guilabel:`CPBD` oder :guilabel:`SLDO`
+    
+Logo
+    Firmenlogo upload, wird auf den Rechnungen angezeigt wenn nichts in den Dokumenten angelegt/hinterlegt wird.
+
+.. Attention:: max size 474px x 155px 
+
 
 Adressdaten
     Rechnungsadresse des Mandanten
